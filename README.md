@@ -79,7 +79,7 @@ Contributions are welcome! If you have any suggestions or improvements, feel fre
 
 ## 🔗 Links
 
-- **Project Repository:** [GitHub](https://github.com/your-username/scientific-calculator)
-- **Live Demo:** [Demo Link](https://your-username.github.io/scientific-calculator)
+- **Project Repository:** [[GitHub](https://github.com/your-username/scientific-calculator)](https://github.com/syuvraj19/Scientific-Calculator)
+- **Live Demo:** [[Demo Link](https://your-username.github.io/scientific-calculator)](https://scientific-calculator-appjs.netlify.app/)
 
 Enjoy calculating! 🚀
